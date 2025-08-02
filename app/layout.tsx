@@ -7,7 +7,21 @@ import { Toaster } from "@/components/ui/toaster"
 export const metadata: Metadata = {
   title: "RusalDev",
   description: "Rusal's Portfolio Dev site ig",
-    generator: 'v0.dev'
+    generator: 'vs studio',
+	icons:{
+		icon: [
+		{
+                media: '(prefers-color-scheme: light)',
+			url: '/images/RDEVlight.png',
+			href: '/images/RDEVlight.png',
+		},
+		{
+			media: '(prefers-color-scheme: dark)',
+			url: '/images/RDEVdark.png',
+			href: '/images/RDEVdark.png',
+		},
+		],
+	},
 }
 
 export default function RootLayout({
