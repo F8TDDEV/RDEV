@@ -12,10 +12,10 @@ export function Footer() {
   // Available icons: https://lucide.dev/icons/
   // Examples: Instagram, Facebook, Youtube, Dribbble, Behance, etc.
   const socialLinks = [
-    { icon: Github, href: "https://github.com", label: "GitHub" },
-    { icon: Twitter, href: "https://twitter.com", label: "Twitter" },
-    { icon: Linkedin, href: "https://linkedin.com", label: "LinkedIn" },
-    { icon: Mail, href: "mailto:contact@example.com", label: "Email" },
+    { icon: Github, href: "https://github.com/F8TDDEV", label: "GitHub" },
+    { icon: Twitter, href: "https://x.com/elonmusk", label: "Twitter" },
+    { icon: Linkedin, href: "Coming soon when I'm unc", label: "LinkedIn" },
+    { icon: Mail, href: "mailto:itsrusalperera211@gmail.com", label: "Email" },
   ]
 
   const footerLinks = [
