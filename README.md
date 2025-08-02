@@ -67,7 +67,7 @@ export default tseslint.config([
   },
 ])
 ```
-# Next.js on Netlify Platform Starter
+# Next.js on Netlify Platform:
 
 [Live Demo](https://nextjs-platform-starter.netlify.app/)
 
@@ -83,7 +83,7 @@ This site requires [Netlify Next Runtime v5](https://docs.netlify.com/frameworks
 
 After deploying via the button below, please visit the **Site Overview** page for your new site to check whether it is already using the v5 runtime. If not, you'll be prompted to opt-in to to v5.
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/next-platform-starter)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/F8TDDEV/RDEV)
 
 ## Developing Locally
 
@@ -108,3 +108,4 @@ netlify dev
 ```
 
 If your browser doesn't navigate to the site automatically, visit [localhost:8888](http://localhost:8888).
+
